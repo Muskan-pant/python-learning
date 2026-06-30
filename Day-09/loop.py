@@ -110,3 +110,9 @@ for i in range(2, 11, 3): #range(start,stop,step)
 
 for i in range(1, 100, 2): 
   print(i)
+
+
+#Pass statement:- is a null statement that does nothing. It is used as a placeholder for future code.
+if(i > 5):
+  pass
+print("Some useful work")
